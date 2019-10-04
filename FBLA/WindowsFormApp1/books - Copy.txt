@@ -1,0 +1,5 @@
+00001|Mary Smith|msmith@gmail.com|Sophomore|password
+00002|john Smith|jmith@gmail.com|Junior|pass
+00003|Daniel Brown|dbrown@gmail.com|Senior|brown
+00004|Beyonce Knowles|carter@gmail.com|Sophomore|beyonce
+00005|Maria Lee|mlee@gmail.com|Freshman|maria

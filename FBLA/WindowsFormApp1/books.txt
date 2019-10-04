@@ -1,0 +1,6 @@
+00001|Samuel|Smith|test@gmail.com|Sophomore|test|Literature and Composition|Literature 101
+00002|John|Smith|jmith@gmail.com|Sophomore|pass|Literature and Composition|Literature 101
+00003|Daniel|Brown|dbrown@gmail.com|Junior|brown|Literature and Composition|Literature 101
+00004|Beyonce|Knowles|carter@gmail.com|Sophomore|beyonce|Literature and Composition|Literature 101
+00005|Maria|Lee|mlee@gmail.com|Junior|maria|Literature and Composition|Literature 101
+00006|Sally|Miller|sallymiller@gmail.com|Sophomore|smiller|Literature and Composition|Literature 101
